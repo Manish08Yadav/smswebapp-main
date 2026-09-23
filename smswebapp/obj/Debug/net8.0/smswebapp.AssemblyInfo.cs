@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("smswebapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b473aba7674919486b331fe817fb0517d505ec5")]
 [assembly: System.Reflection.AssemblyProductAttribute("smswebapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("smswebapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

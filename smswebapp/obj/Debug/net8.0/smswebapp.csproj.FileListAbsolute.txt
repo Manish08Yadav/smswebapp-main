@@ -61,3 +61,5 @@ D:\Manish\smswebapp-main\smswebapp\obj\Debug\net8.0\refint\smswebapp.dll
 D:\Manish\smswebapp-main\smswebapp\obj\Debug\net8.0\smswebapp.pdb
 D:\Manish\smswebapp-main\smswebapp\obj\Debug\net8.0\smswebapp.genruntimeconfig.cache
 D:\Manish\smswebapp-main\smswebapp\obj\Debug\net8.0\ref\smswebapp.dll
+D:\Manish\smswebapp-main\smswebapp\bin\Debug\net8.0\global.json
+D:\Manish\smswebapp-main\smswebapp\obj\Debug\net8.0\smswebapp.sourcelink.json
